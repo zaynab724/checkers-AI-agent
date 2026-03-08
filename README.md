@@ -65,15 +65,21 @@ screenshots/        → Gameplay screenshots
 
 ### Start of the Game
 
-![Start Game](screenshots/start%20game.jpg)
+<p align="center">
+  <img src="screenshots/start_game.jpg" width="600">
+</p>
 
 ### Mid Game
 
-![Mid Game](screenshots/mid%20game.jpg)
+<p align="center">
+  <img src="screenshots/mid_game.jpg" width="600">
+</p>
 
 ### End of the Game
 
-![End Game](screenshots/end%20game.jpg)
+<p align="center">
+  <img src="screenshots/end_game.jpg" width="600">
+</p>
 
 ---
 
