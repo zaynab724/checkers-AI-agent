@@ -7,7 +7,7 @@ This project was developed as part of **CSC-3309 – Artificial Intelligence**.
 
 ---
 
-## Project Overview
+## Summary
 
 The goal of this project is to design an intelligent Checkers agent capable of playing against a human opponent.
 The agent analyzes possible future board states and selects moves that maximize its chances of winning.
